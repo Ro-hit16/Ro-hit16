@@ -2,13 +2,15 @@
 <h3 align="center">Final Year Software Developer | MERN Stack | Backend Enthusiast</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="www.linkedin.com/in/rohit-devkar
+
+" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/Ro-hit16/Ro-hit16" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:rohitdevkar301@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -17,7 +19,7 @@
 
 ## 👨‍💻 About Me
 - 🎓 Final Year Engineering Student  
-- 💻 Passionate about **Web Development & Backend Systems**
+- 💻 Passionate about **Software Development & Backend Systems**
 - 🚀 Building scalable apps using **MERN Stack**
 - 🧠 Interested in **Cloud, APIs & System Design**
 - 📈 Improving **DSA & Problem Solving**
