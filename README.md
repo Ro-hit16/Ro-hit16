@@ -55,21 +55,7 @@ I started with **HTML & CSS**, explored **JavaScript**, and eventually found my 
 
 
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ro-hit16&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ro-hit16&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ro-hit16&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 ## 📌 Top Repository
 
