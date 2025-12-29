@@ -45,8 +45,17 @@ I started with **HTML & CSS**, explored **JavaScript**, and eventually found my 
 </p>
 
 ---
+## 🧩 LeetCode
 
-## 📊 GitHub Stats (FIXED)
+<p align="center">
+  <a href="https://leetcode.com/Ro-hitdevkar/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Ro-hitdevkar?theme=dark&font=Karma" />
+  </a>
+</p>
+
+
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ro-hit16&show_icons=true&theme=tokyonight"/>
