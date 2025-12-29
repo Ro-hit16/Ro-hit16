@@ -45,6 +45,9 @@ I started with **HTML & CSS**, explored **JavaScript**, and eventually found my 
 </p>
 
 ---
+## 🧩 Coding Profiles
+
+
 ## 🧩 LeetCode
 
 <p align="center">
@@ -53,16 +56,15 @@ I started with **HTML & CSS**, explored **JavaScript**, and eventually found my 
   </a>
 </p>
 
-
-
-
-
-## 📌 Top Repository
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ro-hit16&repo=CarPoint&theme=tokyonight"/>
+  <a href="https://auth.geeksforgeeks.org/user/rohitdevkar16/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-DSA%20Practice-darkgreen?style=for-the-badge&logo=geeksforgeeks" />
+  </a>
 </p>
 
----
+
+
+
+
 
 ⭐ *Thanks for visiting my GitHub profile!*
