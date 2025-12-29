@@ -2,9 +2,7 @@
 <h3 align="center">Final Year Software Developer | MERN Stack | Backend Enthusiast</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/rohit-devkar
-
-" target="_blank">
+  <a href="www.linkedin.com/in/rohit-devkar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Ro-hit16/Ro-hit16" target="_blank">
