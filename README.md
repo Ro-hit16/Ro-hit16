@@ -51,8 +51,8 @@ I started with **HTML & CSS**, explored **JavaScript**, and eventually found my 
 ## 🧩 LeetCode
 
 <p align="center">
-  <a href="https://leetcode.com/Ro-hitdevkar/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Ro-hitdevkar?theme=dark&font=Karma" />
+  <a href="https://leetcode.com/Rohitdevkar/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Rohitdevkar?theme=dark&font=Karma" />
   </a>
 </p>
 
